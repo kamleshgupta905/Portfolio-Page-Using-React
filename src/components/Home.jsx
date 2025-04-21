@@ -40,11 +40,12 @@ function Home() {
                         </div>
                         <br />
                         <p className="text-sm md:text-md text-justify">
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                            Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-                            laborum fuga repudiandae? Asperiores tempore eos animi dolores
-                            corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-                            cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+                            I am a dedicated frontend developer from Greater Noida, India.
+                            Proficient in HTML, CSS, JavaScript, and React,
+                            I'm expanding into full stack development with Node.js and MongoDB.
+                            Passionate about building real-world projects, I value clean code,
+                            continuous learning, and strive to create impactful web experiences
+                            that solve real user problems.
                         </p>
                         <br />
                         {/* social media icons */}
